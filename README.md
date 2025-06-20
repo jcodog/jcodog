@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm jcodog
 
-<!--
-**jcodog/jcodog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer** | Typescript • NextJS • DiscordJS • DiscordAPI • Ubuntu • Infrastructure as Code • Hosting & Network Admin  
+**Tagline:** I love to make things that make mine and other people's lives easier, even if it only automates a small simple task.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🛠️ DevOps Engineer passionate about automation and efficiency
+- 💻 Skilled in:
+  - Typescript
+  - NextJS
+  - DiscordJS & DiscordAPI
+  - Ubuntu & Linux administration
+  - Infrastructure as Code
+  - Hosting & Network Management
+- 🕹️ Gamer & content creator (streaming)
+- 🤝 Open to paid freelance projects that are interesting and worthwhile to communities and people
+
+## Connect with Me
+
+- Twitter: [@JCoNetLTD](https://twitter.com/JCoNetLTD)
+
+---
+
+> “I love to make things that make mine and other people's lives easier, even if it only automates a small simple task.”
+
+---
+
+*No favourite or showcase projects yet – but always looking for the next cool thing to build!*
